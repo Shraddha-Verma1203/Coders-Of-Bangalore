@@ -29,7 +29,7 @@ The project performs:
 - Counting users in each category
 - Generating summary statistics
 
-## Questions Solved
+## Key Questions Answered
 
 - Who has the maximum posts?
 - Who has the maximum followers?
