@@ -40,6 +40,30 @@ The project performs:
 - Functions
 - File Handling
 
+## Skills Demonstrated
+
+- Python Programming
+- Data Cleaning
+- Data Analysis
+- Data Processing
+- File Handling
+- Problem Solving
+- Exploratory Data Analysis
+
+## Project Workflow
+
+Raw Instagram Data
+↓
+Data Cleaning
+↓
+Data Processing
+↓
+Data Analysis
+↓
+Insight Generation
+↓
+Results
+
 ## Screenshots
 
 ### Maximum Followers Analysis
