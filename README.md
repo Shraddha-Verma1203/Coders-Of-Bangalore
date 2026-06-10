@@ -42,16 +42,16 @@ The project performs:
 
 ## Screenshots
 
-### Maximum Followers & Posts Analysis
+### Maximum Followers Analysis
 
-![Maximum Followers and Posts](max-follower-max-post-output.png.jpeg)
+![Maximum Followers](maximum-followers.jpeg)
 
 ### Maximum Following Analysis
 
-![Maximum Following](max-people-output.png.jpeg)
+![Maximum Following](maximum-following.jpeg)
 
 ### Category Analysis
 
-![Category Analysis](category-analysis-output.png.jpeg)
+![Category Analysis](category-analysis.jpeg)
 
 ## Project Structure
