@@ -37,14 +37,14 @@ The project performs:
 - How many categories are present?
 - How many users belong to each category?
 
-## Technologies Used
+## Key Insights Generated
 
-- Python
-- Lists
-- Dictionaries
-- Loops
-- Functions
-- File Handling
+- Identified the account with the maximum posts.
+- Identified the account with the highest follower count.
+- Identified the account following the maximum number of people.
+- Calculated the total number of account categories.
+- Analyzed category-wise user distribution.
+
 
 ## Skills Demonstrated
 
@@ -58,17 +58,19 @@ The project performs:
 
 ## Project Workflow
 
+```text
 Raw Instagram Data
-↓
+        ↓
 Data Cleaning
-↓
+        ↓
 Data Processing
-↓
+        ↓
 Data Analysis
-↓
+        ↓
 Insight Generation
-↓
+        ↓
 Results
+```
 
 ## Screenshots
 
@@ -85,3 +87,25 @@ Results
 ![Category Analysis](category-analysis.jpeg)
 
 ## Project Structure
+
+```text
+Coders-of-Bangalore-Instagram-Analytics
+│
+├── README.md                     # Project documentation
+├── LICENSE                       # MIT License
+├── banner.png                    # Repository banner
+├── maximum-followers.jpeg        # Output screenshot
+├── maximum-following.jpeg        # Output screenshot
+├── category-analysis.jpeg        # Output screenshot
+└── Coders_of_Banglore.ipynb      # Main project notebook
+```
+
+
+
+## Author
+
+**Shraddha Verma**
+
+B.Tech Computer Science Engineering
+
+Built as part of my Python learning journey to practice data cleaning, analysis, and insight generation using real-world social media data.
