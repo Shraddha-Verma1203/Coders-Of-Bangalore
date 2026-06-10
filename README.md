@@ -40,4 +40,18 @@ The project performs:
 - Functions
 - File Handling
 
+## Screenshots
+
+### Maximum Followers & Posts Analysis
+
+![Maximum Followers and Posts](max-follower-max-post-output.png.jpeg)
+
+### Maximum Following Analysis
+
+![Maximum Following](max-people-output.png.jpeg)
+
+### Category Analysis
+
+![Category Analysis](category-analysis-output.png.jpeg)
+
 ## Project Structure
