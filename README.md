@@ -1,3 +1,9 @@
+![Banner](banner.png)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Coders of Bangalore - Instagram Data Analysis
 
 ## Project Overview
